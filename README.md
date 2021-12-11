@@ -1,9 +1,9 @@
-# Hi there, I am Simone 👋
+<h2> Hi there, I am Simone <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h2>
 <h2 align="center"> I am a Computer Engineer currently attending the Data Science Master Degree in Sophia Antipolis, France </h2>
-<div align="center">
+<p align="center">
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="60%" align="center">
-</div>
-<br>
+</p>
+
 
 - 🌱 My major is Data Science and Machine Learning 
 - 🖥️ I’m enrolled in the Double Degree program between Politecnico Di Torino (🇮🇹) and Eurecom, Sophia Antipolis (🇫🇷)
@@ -12,8 +12,6 @@
 ## Favorite Languages
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"
-     alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" 
      alt="Java" height="40" style="vertical-align:top; margin:4px"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn"
