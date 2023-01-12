@@ -7,7 +7,7 @@
 
 - 🌱 My major is Data Science and Machine Learning 
 - 🖥️ I’m enrolled in the Double Degree program between Politecnico Di Torino (🇮🇹) and Eurecom, Sophia Antipolis (🇫🇷)
-- ❤️‍🔥 Passionate of Computer Vision and Deep Learning in general
+- ❤️‍🔥 Passionate of Natural Language Processing and Deep Learning in general
 
 ## Favorite Languages
 <p align="center">
