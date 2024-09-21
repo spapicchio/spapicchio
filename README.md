@@ -1,11 +1,9 @@
 <h2> Hi there, I am Simone <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h2>
-<h2 align="center"> I am a Data Scientist with a background of Computer Engineering (Bachelor) currently pursuing a Ph.D. in Politecnico di Torino, Turin, Italy. </h2>
+<h2 align="center"> I am a Data Scientist with a background in Computer Engineering (Bachelor) currently pursuing a Ph.D. in Politecnico di Torino, Turin, Italy. </h2>
 <p align="center">
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="60%" align="center">
 </p>
 
-
-- 🌱 My major is Natural Languge Processing applied to Tabular Data 
 - 🖥️ I’m rresearcher in Natural Language Processing for tabular data in Politecnico Di Torino (🇮🇹) and Eurecom, Sophia Antipolis (🇫🇷)
 - ❤️‍🔥 Passionate about implementing fast, reliable and robust Deep Learning Pipeline
 
