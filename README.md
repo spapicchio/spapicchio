@@ -4,8 +4,8 @@
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="60%" align="center">
 </p>
 
-- 🖥️ I’m rresearcher in Natural Language Processing for tabular data in Politecnico Di Torino (🇮🇹) and Eurecom, Sophia Antipolis (🇫🇷)
-- ❤️‍🔥 Passionate about implementing fast, reliable and robust Deep Learning Pipeline
+- 🖥️ I’m researcher in Natural Language Processing for tabular data in Politecnico Di Torino (🇮🇹) and Eurecom, Sophia Antipolis (🇫🇷)
+- ❤️‍🔥 Passionate about implementing a fast, reliable, and robust Deep Learning Pipeline
 
 ## Favorite Languages
 <p align="center">
